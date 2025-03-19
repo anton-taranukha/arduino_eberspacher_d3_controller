@@ -21,5 +21,10 @@ Edith works with two (interesting for us) modes --
 Edith app is master, heater is slave.
 
 Message consists of 5 parts: [02][message lenght 2 bytes][command][data (optional) ][src 2 bytes] 
-02 30 34 31 30 30 45 33 43 
-02 30 32 35 30 43 39 02 30 32 33 45 44 43
+
+02 30 34 31 30 30 45 33 43
+02 30 32 35 30 43 39 
+
+02 30 32 33 45 44 43
+
+![protocol reverce ingeneering](images/eber1.jpg)
