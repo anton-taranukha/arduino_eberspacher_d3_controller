@@ -10,6 +10,9 @@ Unfortunately, the photos are not very high quality, but I took them only for an
 I found the appropriate contact in the connector under the passenger seat. I soldered an adapter for the K-line diagnostics and started controlling the heater using the Edith software.
 At the same time, I was recording the data stream between the heater and the software.
 
+To comunicate with heater i soldered wery simple adapter:
+![adapter](images/mc33199.gif)
+
 Edith works with two (interesting for us) modes -- 
  * read common info mode
  * test work mode 
@@ -28,3 +31,5 @@ Message consists of 5 parts: [02][message lenght 2 bytes][command][data (optiona
 02 30 32 33 45 44 43
 
 ![protocol reverce ingeneering](images/eber1.jpg)
+
+I'm posting information here little by little. If you're interested, write to WhatsApp +380965127484
