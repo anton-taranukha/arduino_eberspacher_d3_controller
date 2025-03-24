@@ -10,7 +10,7 @@ Unfortunately, the photos are not very high quality, but I took them only for an
 I found the appropriate contact in the connector under the passenger seat. I soldered an adapter for the K-line diagnostics and started controlling the heater using the Edith software.
 At the same time, I was recording the data stream between the heater and the software.
 
-To comunicate with heater i soldered wery simple adapter:
+To comunicate with heater i soldered very simple adapter:
 ![adapter](images/mc33199.gif)
 
 Edith works with two (interesting for us) modes -- 
